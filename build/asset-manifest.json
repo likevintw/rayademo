@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.2f5dd25b.js",
-    "index.html": "/index.html",
-    "main.2f5dd25b.js.map": "/static/js/main.2f5dd25b.js.map"
+    "main.css": "/rayademo/static/css/main.31d6cfe0.css",
+    "main.js": "/rayademo/static/js/main.2f5dd25b.js",
+    "index.html": "/rayademo/index.html",
+    "main.2f5dd25b.js.map": "/rayademo/static/js/main.2f5dd25b.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
