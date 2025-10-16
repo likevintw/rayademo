@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "/rayademo/static/css/main.31d6cfe0.css",
-    "main.js": "/rayademo/static/js/main.2f5dd25b.js",
+    "main.js": "/rayademo/static/js/main.aa72b31b.js",
     "index.html": "/rayademo/index.html",
-    "main.2f5dd25b.js.map": "/rayademo/static/js/main.2f5dd25b.js.map"
+    "main.aa72b31b.js.map": "/rayademo/static/js/main.aa72b31b.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.2f5dd25b.js"
+    "static/js/main.aa72b31b.js"
   ]
 }
