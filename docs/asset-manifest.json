@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rayademo/static/js/main.aa72b31b.js",
+    "main.js": "/rayademo/static/js/main.6ec37573.js",
     "index.html": "/rayademo/index.html",
-    "main.aa72b31b.js.map": "/rayademo/static/js/main.aa72b31b.js.map"
+    "main.6ec37573.js.map": "/rayademo/static/js/main.6ec37573.js.map"
   },
   "entrypoints": [
-    "static/js/main.aa72b31b.js"
+    "static/js/main.6ec37573.js"
   ]
 }
